@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+### Blog
+[blog](https://harrypoint.github.io/)
+### Email
+1751826104@qq.com
+### Npm
+[mini-censor](https://www.npmjs.com/package/mini-censor)
+> Give me one star！thanks 🤔
 <!--
 **HarryPoint/HarryPoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[blog](https://harrypoint.github.io/)
-[mini-censor](https://www.npmjs.com/package/mini-censor)
+
+
