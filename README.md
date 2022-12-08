@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [blog](https://harrypoint.github.io/)
+[mini-censor](https://www.npmjs.com/package/mini-censor)
