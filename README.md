@@ -2,7 +2,7 @@
 ### Blog
 <!-- [blog](https://harrypoint.github.io/) -->
 ### Email
-1751826104@qq.com
+harry_point2021@126.com
 ### Npm
 [mini-censor](https://www.npmjs.com/package/mini-censor)
 
