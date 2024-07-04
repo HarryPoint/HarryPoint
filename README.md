@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Blog
-[blog](https://harrypoint.github.io/)
+<!-- [blog](https://harrypoint.github.io/) -->
 ### Email
 1751826104@qq.com
 ### Npm
