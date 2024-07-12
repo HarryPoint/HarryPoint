@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Blog
-<!-- [blog](https://harrypoint.github.io/) -->
+[blog](https://harrypoint.github.io/)
 ### Email
 harry_point2021@126.com
 ### Npm
